@@ -1,6 +1,6 @@
 # Hi, I'm Mateo 
 
-Backend-focused Java Developer from Colombia 🇨🇴
+Backend-focused Java Developer based in Colombia 🇨🇴
 
 I'm currently building **GymManager**, a REST API for gym management using Spring Boot and MySQL while improving my backend development skills.
 
