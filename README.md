@@ -1,10 +1,10 @@
-# Hi, I'm Mateo 👋
+# Hi, I'm Mateo 
 
 Backend-focused Java Developer from Colombia 🇨🇴
 
 I'm currently building **GymManager**, a REST API for gym management using Spring Boot and MySQL while improving my backend development skills.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Java
 - Spring Boot
@@ -13,11 +13,11 @@ I'm currently building **GymManager**, a REST API for gym management using Sprin
 - Docker (Learning)
 - Linux
 
-## 🚀 Current Project
+## Current Project
 
-- 🏋️ GymManager
+-  GymManager
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Spring Security
 - JWT Authentication
@@ -25,6 +25,6 @@ I'm currently building **GymManager**, a REST API for gym management using Sprin
 - Testing with JUnit
 - Cloud Fundamentals
 
-## 📫 Connect with me
+## Connect with me
 
-- LinkedIn *(Coming soon)*
+- LinkedIn: www.linkedin.com/in/mateo-rueda-castro-918418412
