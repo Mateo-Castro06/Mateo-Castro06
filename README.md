@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mateo 👋
 
-<!--
-**Mateo-Castro06/Mateo-Castro06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Java Developer from Colombia 🇨🇴
 
-Here are some ideas to get you started:
+I'm currently building **GymManager**, a REST API for gym management using Spring Boot and MySQL while improving my backend development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- Java
+- Spring Boot
+- MySQL
+- Git
+- Docker (Learning)
+- Linux
+
+## 🚀 Current Project
+
+- 🏋️ GymManager
+
+## 🌱 Currently Learning
+
+- Spring Security
+- JWT Authentication
+- Docker
+- Testing with JUnit
+- Cloud Fundamentals
+
+## 📫 Connect with me
+
+- LinkedIn *(Coming soon)*
