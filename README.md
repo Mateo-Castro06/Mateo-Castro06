@@ -15,7 +15,7 @@ I'm currently building **GymManager**, a REST API for gym management using Sprin
 
 ## Current Project
 
--  GymManager
+-  GymManager AND PixelChissServer
 
 ##  Currently Learning
 
